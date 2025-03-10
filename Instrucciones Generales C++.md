@@ -3,7 +3,7 @@
 ## Descripción
 Este programa calcula la cantidad de daño recibido por un personaje en función del ataque mágico inicial y la resistencia mágica del personaje. Dependiendo del valor de la resistencia, el daño final se ajusta según las reglas establecidas en el código.
 
-## Comentarios explicativos
+## Comentarios Explicativos
 - Se solicita al usuario la cantidad de ataque mágico (d) y la resistencia mágica (r) mediante `cin`.
 - Se valida que la resistencia mágica esté dentro del rango permitido (0 a 100).
 - Se aplican diferentes cálculos para determinar el daño final dependiendo del rango de resistencia mágica.
