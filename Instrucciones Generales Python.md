@@ -38,7 +38,7 @@ El personaje recibe 50.00 de daño total.
 d = int(input("Ingresa la cantidad del ataque mágico en puntos de daño: "))
 r = int(input("Ingresa la resistencia mágica del personaje en porcentaje: "))
 
-# Validación de la resistencia mágica
+#Aca se compara cantidad de daño y la resistencia mágica para dar un resultado
 desde 0 hasta 100
 if r < 0 or r > 100:
     print("Error, la resistencia mágica debe ser un número entre 0 y 100.")

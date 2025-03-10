@@ -44,7 +44,7 @@ int main() {
     cout << "Ingresa la resistencia mágica del personaje en porcentaje: ";
     cin >> r;
 
-    // Comparar la cantidad de daño y la resistencia mágica para calcular el daño final
+    //Aca se compara cantidad de daño y la resistencia mágica para dar un resultado
     if (r < 0 || r > 100) {
         cout << "Error, la resistencia mágica debe ser un número entre 0 y 100." << endl;
     } else if (r >= 75) {

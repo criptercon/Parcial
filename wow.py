@@ -1,4 +1,4 @@
-#Solicitar la cantidad de daño del ataque mágico (D) y la resistencia mágica (r)
+#Solicitar la cantidad de daño del ataque mágico (d) y la resistencia mágica (r)
 d = int(input("Ingresa la cantidad del ataque mágico en puntos de daño: "))
 r = int(input("Ingresa la resistencia mágica del personaje en porcentaje: "))
 
