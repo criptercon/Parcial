@@ -37,7 +37,7 @@ El personaje recibe 50.00 de daño total.
 using namespace std;
 
 int main() {
-    // Solicitar la cantidad de daño del ataque mágico (D) y la resistencia mágica (r)
+    // Solicitar la cantidad de daño del ataque mágico (d) y la resistencia mágica (r)
     int d, r;
 
     cout << "Ingresa la cantidad del ataque mágico en puntos de daño: ";
