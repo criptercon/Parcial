@@ -16,13 +16,12 @@ Este programa calcula la cantidad de daño recibido por un personaje en función
 
 1. Asegúrese de tener instalado Python (versión 3 o superior).
 2. Guarde el código en un directorio.
-3. Extraiga el código y fíjese en el nombre del archivo.
-4. Abra una terminal o consola de comandos en el directorio donde se encuentre el archivo del código.
-5. Ejecute el siguiente comando:
+3. Abra una terminal o consola de comandos en el directorio donde se encuentre el archivo del código.
+4. Ejecute el siguiente comando:
    ```sh
    python (nombre del archivo).py
    ```
-6. Ingrese los valores solicitados cuando el programa lo pida.
+5. Ingrese los valores solicitados cuando el programa lo pida.
 
 ## Ejemplo de Uso
 
