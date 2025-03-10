@@ -12,18 +12,17 @@ Este programa calcula la cantidad de daño recibido por un personaje en función
 ### Windows, macOS y Linux
 1. Asegúrese de tener instalado un compilador de C++ (como g++ de MinGW o GCC).
 2. Guarde el código en un directorio.
-3. Extraiga el código y fíjese en el nombre del archivo.
-4. Abra una terminal o consola de comandos en el directorio donde se encuentre el archivo del código.
-5. Compile el código con el siguiente comando:
+3. Abra una terminal o consola de comandos en el directorio donde se encuentre el archivo del código.
+4. Compile el código con el siguiente comando:
    ```sh
    g++ nombre del archivo.cpp -o nombre del archivo.c++
    ```
-6. Ejecute el programa con:
+5. Ejecute el programa con:
    ```sh
    ./nombre del archivo  # En Linux/macOS
    nombre del archivo.exe  # En Windows
    ```
-7. Ingrese los valores solicitados cuando el programa lo pida.
+6. Ingrese los valores solicitados cuando el programa lo pida.
 
 ## Ejemplo de Uso
 ```
