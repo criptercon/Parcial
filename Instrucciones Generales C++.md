@@ -16,12 +16,12 @@ Este programa calcula la cantidad de daño recibido por un personaje en función
 4. Abra una terminal o consola de comandos en el directorio donde se encuentre el archivo del código.
 5. Compile el código con el siguiente comando:
    ```sh
-   g++ calculo_dano.cpp -o calculo_dano
+   g++ nombre del archivo.cpp -o nombre del archivo
    ```
 6. Ejecute el programa con:
    ```sh
-   ./calculo_dano  # En Linux/macOS
-   calculo_dano.exe  # En Windows
+   ./nombre del archivo  # En Linux/macOS
+   nombre del archivo.exe  # En Windows
    ```
 7. Ingrese los valores solicitados cuando el programa lo pida.
 
